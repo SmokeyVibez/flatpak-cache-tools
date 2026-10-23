@@ -1,6 +1,6 @@
 [Desktop Entry]
 Type=Application
 Name=Cache Cleaner
-Exec=/var/home/jmunoz/cache-cleaner.py
+Exec=sh -c "~/cache-cleaner.py"
 Terminal=false
 Icon=utilities-terminal
