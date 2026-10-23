@@ -46,4 +46,5 @@ Right now these install by hand (steps below). A ready-to-run single-file build 
 
 - These tools only ever touch the cache folders named above. Caches are safe to delete: the apps rebuild them on their own.
 - I'm a beginner and these are my first programs. They work on my machine (Bazzite / KDE). Read the code before you run it — it's short, and it's all right there.
+- More apps will be added to the cleaner over time — and anyone is free to add to it. Forks and pull requests welcome.
 - Don't know how useful these actually are but they are my first code written by me. :)
